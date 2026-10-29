@@ -1,0 +1,31 @@
+{
+  "name": "@dogeforex/ponder",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12 <23"
+  },
+  "scripts": {
+    "dev": "ponder dev",
+    "start": "ponder start",
+    "typecheck": "tsc --noEmit",
+    "generate:manifest": "node scripts/generate-manifest.mjs",
+    "reconcile": "node scripts/reconcile.mjs"
+  },
+  "dependencies": {
+    "hono": "4.13.14",
+    "ponder": "0.18.3",
+    "viem": "2.57.13"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.1",
+    "typescript": "^5.9.3"
+  },
+  "overrides": {
+    "@graphql-tools/utils": "12.0.2",
+    "@hono/node-server": "2.1.5",
+    "drizzle-orm": "0.45.4",
+    "vite": "8.3.5"
+  }
+}

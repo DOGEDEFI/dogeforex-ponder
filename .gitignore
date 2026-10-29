@@ -8,6 +8,8 @@ out/
 *.log
 coverage/
 .cache/
+.ponder/
+generated/
 .DS_Store
 keys.json
 deployments/*.local.json

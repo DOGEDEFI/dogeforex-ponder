@@ -1,0 +1,236 @@
+{
+  "schema": "imf.ponder-registry.v1",
+  "chainId": 6281971,
+  "network": "chikyuV2",
+  "generatedAt": "2026-10-29T18:42:43.904Z",
+  "currencies": [
+    {
+      "code": "USD",
+      "addresses": {
+        "Token": "0xBe01772ee4ba9807b4cF68F49E559d456d6f20cC",
+        "Equity": "0x8596E9E4B980739CE2E6C155e520a0ef46381568",
+        "PositionRoller": "0xFf2cA3C4a2CCAc366FE2307cBcEeAd9ADb99a052",
+        "Savings": "0x7004C5e94189A77d38522c261ABA2e3ee23dfC75",
+        "MintingHub": "0xFA6216b8C42b5e09Df8984701345c0fC98c7CDe2",
+        "Bridge": "0x1dBb32855fcA4719239d9eBF6dE6483315f76951"
+      },
+      "startBlocks": {
+        "Token": 8901030,
+        "Equity": 8901030,
+        "PositionRoller": 8901033,
+        "Savings": 8901034,
+        "MintingHub": 8901037,
+        "Bridge": 8901040
+      }
+    },
+    {
+      "code": "EUR",
+      "addresses": {
+        "Token": "0x9773224c459fEE9f16B3666f2DB7D4cfA1D2C4B2",
+        "Equity": "0x24794818097bE3F99B55B70A1167608a7E888208",
+        "PositionRoller": "0x992db7bdF7F2ea9698046c603334D99b0a91b149",
+        "Savings": "0x25524327d733f79c4772B95c268836937f9f7075",
+        "MintingHub": "0x92ecfdC999617Cbe6f3D342d2b0C49890790bCdC",
+        "Bridge": "0x0d71EA37281a0cc39535eD2F10D43DcC5909F4Bf"
+      },
+      "startBlocks": {
+        "Token": 8976107,
+        "Equity": 8976107,
+        "PositionRoller": 8976113,
+        "Savings": 8976115,
+        "MintingHub": 8976117,
+        "Bridge": 8976119
+      }
+    },
+    {
+      "code": "JPY",
+      "addresses": {
+        "Token": "0x7aD992a532019dD4A6Bd83e3c5D1aE4f5ACBfC1b",
+        "Equity": "0x652f6c55441387a8247C5FabdC0e12017b1bd213",
+        "PositionRoller": "0xB15e811A852bB7aB041C5bc4D1C208e949ba4294",
+        "Savings": "0x0d89474e5c3161600F3E548ce59fc4AD7496A6EC",
+        "MintingHub": "0x486bfd24B82037d83fD3ce611a8ca030e2f90531",
+        "Bridge": "0xac2Cbf7f96D88e85Be249b558758Ab4BAD427B60"
+      },
+      "startBlocks": {
+        "Token": 8976178,
+        "Equity": 8976178,
+        "PositionRoller": 8976183,
+        "Savings": 8976185,
+        "MintingHub": 8976186,
+        "Bridge": 8976189
+      }
+    },
+    {
+      "code": "GBP",
+      "addresses": {
+        "Token": "0xe1a95490D46b6f3C5F78f9521068e35d3d79707E",
+        "Equity": "0x9df2d1Aa94549A6e23806D02B1AC3679D08C0ccB",
+        "PositionRoller": "0xF39FD2B6f5575f8c6Dede9c28995085375F62971",
+        "Savings": "0x961454e81145F03A9A30D345d88714cdD48eFC62",
+        "MintingHub": "0x689eFE8251D3499D0dD8b9ED11D71A9e47848808",
+        "Bridge": "0xBA688142DcB916d53065671D46f351903BDCE34C"
+      },
+      "startBlocks": {
+        "Token": 8976211,
+        "Equity": 8976211,
+        "PositionRoller": 8976215,
+        "Savings": 8976216,
+        "MintingHub": 8976218,
+        "Bridge": 8976220
+      }
+    },
+    {
+      "code": "AUD",
+      "addresses": {
+        "Token": "0x6D61Ad71589697c3fA89C7851d21C9deBC6E2D98",
+        "Equity": "0x344548CF6ab3da78C5a2E4F359eeCFc874B51e32",
+        "PositionRoller": "0xB1e47D799D63511b5819860d659565407045E409",
+        "Savings": "0xefDE2508743c469F678fAaE6fD48E33b69B65166",
+        "MintingHub": "0x141cEc1Da0A6089f11A159A6f6Aa870Ea3C14BD8",
+        "Bridge": "0x8419b4e4fc2608ccbAC1e0cd8EA7F0293dd11984"
+      },
+      "startBlocks": {
+        "Token": 8976245,
+        "Equity": 8976245,
+        "PositionRoller": 8976251,
+        "Savings": 8976252,
+        "MintingHub": 8976254,
+        "Bridge": 8976257
+      }
+    },
+    {
+      "code": "CNY",
+      "addresses": {
+        "Token": "0xc02eB2CDEFcb8F2f127db45E9dF3761E5ae93C58",
+        "Equity": "0x108B42839F637E9CC14f9Ed42828038d4f1f7D34",
+        "PositionRoller": "0x2d9DFE4c41a92B71416A3cc7846C87D5Fbb81386",
+        "Savings": "0xD9FdDdFe6F50A893e8CA08Ab9142092c7E53F4c3",
+        "MintingHub": "0xf5075Ef7e55102307A4383Ab0E483073148AaFb8",
+        "Bridge": "0xb95d69693A0a53F62B10154F7c614795B8f2AF26"
+      },
+      "startBlocks": {
+        "Token": 8976279,
+        "Equity": 8976279,
+        "PositionRoller": 8976286,
+        "Savings": 8976288,
+        "MintingHub": 8976289,
+        "Bridge": 8976291
+      }
+    },
+    {
+      "code": "BRL",
+      "addresses": {
+        "Token": "0xFf7CEE33F2C9CAaA0C6Ed814dC742923a54cd8aB",
+        "Equity": "0x0c52D6FD40a0380a8d70aA70B14527a0047d3233",
+        "PositionRoller": "0xd9B40C09B20CAEc166B50158eBEB31f3F072A722",
+        "Savings": "0x1ad92478d6aDe5b350533f0969de6549e89486f2",
+        "MintingHub": "0x192F5CCB8c69a268aF4579AC9AAa9E44c0d817eD",
+        "Bridge": "0x0AE4C0E15525b32C013623C06686F466eD69C3E9"
+      },
+      "startBlocks": {
+        "Token": 8976313,
+        "Equity": 8976313,
+        "PositionRoller": 8976318,
+        "Savings": 8976320,
+        "MintingHub": 8976322,
+        "Bridge": 8976324
+      }
+    },
+    {
+      "code": "PKR",
+      "addresses": {
+        "Token": "0xC4C1fDf42f3B6A85588A8E55E7Eed3f7c5c6bA9e",
+        "Equity": "0xe6a217B1851b950b504F215aB301e744128b795C",
+        "PositionRoller": "0x14796ccb41B70e39f96f52Cd8E5a5298AD8D2264",
+        "Savings": "0x1Cc18F06c1ca070fEF8F89EaDD118C3e2A75996B",
+        "MintingHub": "0x85c5B7BA2B3B230233f3b91d9Ce2294774Da166c",
+        "Bridge": "0x1D8d3825ffa20A8c8FB1511A7f969A4Af6a2EBA3"
+      },
+      "startBlocks": {
+        "Token": 8976347,
+        "Equity": 8976347,
+        "PositionRoller": 8976350,
+        "Savings": 8976353,
+        "MintingHub": 8976355,
+        "Bridge": 8976356
+      }
+    },
+    {
+      "code": "BDT",
+      "addresses": {
+        "Token": "0xE225cef11a926594b3Ece84b165b0090d46C03B7",
+        "Equity": "0x447032E454E9E262008b8d16A4dc5A23294eD00C",
+        "PositionRoller": "0xefF43421e349B38dA8e2de968D47cF3E52eF6332",
+        "Savings": "0x4A1dAdC2Dd644Bb72D2547f2A287693c2fdd92A6",
+        "MintingHub": "0x7dFbc1844b299Cf213de02eab47582A81473880e",
+        "Bridge": "0x5C10E851823fb6585FE43dd88e5c1DC6cC1Fa2c4"
+      },
+      "startBlocks": {
+        "Token": 8976376,
+        "Equity": 8976376,
+        "PositionRoller": 8976381,
+        "Savings": 8976384,
+        "MintingHub": 8976386,
+        "Bridge": 8976387
+      }
+    },
+    {
+      "code": "INR",
+      "addresses": {
+        "Token": "0xf37BB786BAb9f28Db850d951725756207A94e23F",
+        "Equity": "0x77118D449EC7E81635098A338e6F6422a48E30b3",
+        "PositionRoller": "0x839446851a96976f199bCa0894589804ef266410",
+        "Savings": "0x9dBA820C7392b73b144B829ca2a0a3b19DcFB241",
+        "MintingHub": "0xf87b98f66ad6fB96F7C2cD3Ce8AD470b2F2582e7",
+        "Bridge": "0x2366104d0ea0381DcCa13e0253D91D10E6AF4696"
+      },
+      "startBlocks": {
+        "Token": 8976410,
+        "Equity": 8976410,
+        "PositionRoller": 8976414,
+        "Savings": 8976417,
+        "MintingHub": 8976419,
+        "Bridge": 8976422
+      }
+    },
+    {
+      "code": "NGN",
+      "addresses": {
+        "Token": "0x55485BbcF8A9c37EcA474e130E9B8cf43ECf5d7a",
+        "Equity": "0xA6f24f9d2597f08d45285569FDFf36f91F747430",
+        "PositionRoller": "0x7BCc17255ff7F0D1F876DB4489226Ab8256E0A22",
+        "Savings": "0x80C478fEae960748861ba0A3b3cDA072c41a5D48",
+        "MintingHub": "0x95d684fE8a132B60bb86568Fe11C0Ceca977EEF5",
+        "Bridge": "0x0287C4632d17A7C10ba67aa90C8d80810117B9b9"
+      },
+      "startBlocks": {
+        "Token": 8976445,
+        "Equity": 8976445,
+        "PositionRoller": 8976451,
+        "Savings": 8976453,
+        "MintingHub": 8976455,
+        "Bridge": 8976458
+      }
+    },
+    {
+      "code": "CHF",
+      "addresses": {
+        "Token": "0x3547fF62C5097460E46E40EAc68B9Dae83a9BE30",
+        "Equity": "0xf08539e8623c494AB7271E4A2eE6D0053Dab3cbB",
+        "PositionRoller": "0x2fa592B56056740F0dD9Adf0A66860CdF2C958D5",
+        "Savings": "0xf3596cB225278e35436E3A37254EBfe96Af70C70",
+        "MintingHub": "0x1a2FA5Eeb02d7F27078d8D59709E21F1f2452624",
+        "Bridge": "0x5E911Db5d8962B0148362434dC6C7Bf33f44Ca2f"
+      },
+      "startBlocks": {
+        "Token": 9014660,
+        "Equity": 9014660,
+        "PositionRoller": 9014665,
+        "Savings": 9014667,
+        "MintingHub": 9014669,
+        "Bridge": 9014671
+      }
+    }
+  ]
+}
